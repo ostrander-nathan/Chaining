@@ -1,15 +1,24 @@
 # Chaining
 
-## Description
-A single line of JavaScript code perform multiple tasks on the array of integers.
+### Description: 
 
-## How to run
-In your terminal run:
+* A single line of JavaScript code perform multiple tasks on the array of integers.
+
+### Final Result:
+> Console 
+
+### Take-home Lesson:
+
+> Displaying JavaScript functionality 
+
+
+### How to run (Node must be installed on your machine):
 ```
-http-server -p 9999
+git clone https://github.com/ostrander-nathan/chaining
+npm install http-server -g
+http-server -p 8080
 ```
-then navigate to (http://localhost:9999) in your browser.
 
 
-## Contributers
--[Nathan Ostrander](https://github.com/ostrander-nathan)
+### Contributors:
+[Nathan Ostrander](https://github.com/ostrander-nathan)
